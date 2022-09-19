@@ -1,0 +1,104 @@
+.body {
+    width: 500px;
+}
+
+.museumpicture {
+    background-color: #768eef;
+    width: 500%;
+    padding: 0rem;
+}
+
+.museum_picture {
+    width: 100%;
+    height: 500px;
+    object-fit: cover;
+}
+
+.nav {
+    background-color: #768eef;
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.nav li {
+    display: inline-block;
+    font-size: 80px;
+    padding: 40px
+}
+
+.content1 {
+    color: #ff7070;
+    text-align: center;
+    font-size: 90px;
+    position: relative;
+}
+
+.content2 {
+    width: auto;
+    text-align: center;
+    font-size: 50px;
+    position: relative;
+}
+
+.hr1 {
+    border: 0;
+    height: 5px;
+    background-image: linear-gradient(to right, transparent, rgb(182, 175, 175), transparent);
+}
+
+.cosmology {
+    text-align: center;
+}
+
+h2 {
+    font-size: 100px;
+    color: #ff7070;
+}
+
+p {
+    margin-left: 25%;
+    text-align: center;
+    width: 50%;
+    font-size: 40px;
+}
+
+.cosmopic {
+    margin-left: 25%;
+    width: 50%;
+    padding: 0rem;
+}
+
+.cosmo_pic {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+    margin-right: 25px;
+}
+
+.column {
+    float: left;
+    width: 20%;
+    padding: 5px;
+
+}
+
+.mountain {
+    object-fit: contain;
+}
+
+
+.earth {
+    object-fit: contain;
+}
+
+.astronaut {
+    object-fit: contain;
+}

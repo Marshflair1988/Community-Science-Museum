@@ -1,0 +1,86 @@
+
+.museumpicture {
+    background-color: #768eef;
+    width: 100%;
+    padding: 0rem;
+}
+
+.museum_picture {
+    width: 100%;
+    height: 500px;
+    object-fit: cover;
+}
+
+.nav {
+    background-color: #768eef;
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.nav li {
+    display: inline-block;
+    font-size: 80px;
+    padding: 40px
+}
+
+.content1 {
+    color: #ff7070;
+    text-align: center;
+    font-size: 90px;
+    position: relative;
+}
+
+.content2 {
+    width: auto;
+    text-align: center;
+    font-size: 50px;
+    position: relative;
+}
+
+.hr1 {
+    border: 0;
+    height: 5px;
+    background-image: linear-gradient(to right, transparent, rgb(182, 175, 175), transparent);
+}
+
+.explore {
+    text-align: center;
+}
+
+h2 {
+    font-size: 100px;
+    color: #ff7070;
+}
+
+p {
+    margin-left: 25%;
+    text-align: center;
+    width: 50%;
+    font-size: 40px;
+}
+
+.moon {
+    margin-left: 25%;
+    width: 50%;
+    padding: 0rem;
+}
+
+.moon_1 {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.trex {
+    background-color: #768eef;
+    width: 100%;
+    padding: 0rem;
+}
+
+.t_rex {
+    width: 100%;
+    height: 900px;
+    object-fit: cover;
+}
