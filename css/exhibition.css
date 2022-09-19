@@ -4,13 +4,13 @@
 
 .museumpicture {
     background-color: #768eef;
-    width: 500%;
+    width: 100%;
     padding: 0rem;
 }
 
 .museum_picture {
     width: 100%;
-    height: 500px;
+    height: 300px;
     object-fit: cover;
 }
 
@@ -24,14 +24,14 @@
 
 .nav li {
     display: inline-block;
-    font-size: 80px;
+    font-size: 50px;
     padding: 40px
 }
 
 .content1 {
     color: #ff7070;
     text-align: center;
-    font-size: 90px;
+    font-size: 50px;
     position: relative;
 }
 
@@ -53,7 +53,8 @@
 }
 
 h2 {
-    font-size: 100px;
+    text-decoration: underline;
+    font-size: 40px;
     color: #ff7070;
 }
 
@@ -61,7 +62,7 @@ p {
     margin-left: 25%;
     text-align: center;
     width: 50%;
-    font-size: 40px;
+    font-size: 20px;
 }
 
 .cosmopic {
@@ -76,29 +77,104 @@ p {
     object-fit: contain;
 }
 
-.row::after {
-    content: "";
-    clear: both;
-    display: table;
-    margin-right: 25px;
+.row {
+    display: flex;
+    justify-content: center;
+
 }
 
 .column {
     float: left;
-    width: 20%;
+    width: 16%;
     padding: 5px;
+}
 
+.earth {
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    object-fit: contain;
 }
 
 .mountain {
-    object-fit: contain;
-}
-
-
-.earth {
-    object-fit: contain;
+    width: 300px;
+    height: 200px;
+    object-fit: cover;
 }
 
 .astronaut {
+    width: 300px;
+    height: 200px;
     object-fit: contain;
 }
+
+.evolution {
+    text-align: center;
+}
+
+.evolvepic {
+    margin-left: 25%;
+    width: 50%;
+    padding: 0rem;
+}
+
+.evolve {
+    margin: 10rem,;
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.mammoth {
+    width: 300px;
+    height: 200px;
+    object-fit: contain;
+}
+
+.skeleton {
+    width: 300px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.ant {
+    width: 300px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.biologypic {
+    text-align: center;
+    margin-left: 25%;
+    width: 50%;
+    padding: 0rem;
+}
+
+.biology_pic {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.biology {
+    text-align: center;
+}
+
+.study {
+    width: 300px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.heart {
+    width: 300px;
+    height: 200px;
+    object-fit: contain;
+}
+
+.brain {
+    width: 300px;
+    height: 200px;
+    object-fit: contain;
+}
+
