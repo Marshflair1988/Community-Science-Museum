@@ -2,8 +2,6 @@ Community-Science-Museum
 
 ![image](Pictures/Homepage.png)
 
-A simple overview of the use/purpose of the project.
-
 ## Description
 
 Community Science Museum is an interactive website designed for a core target audience consisting of primary and middle school children (ages 7-15) and families with young children. 
@@ -19,19 +17,14 @@ The website consists of 6 pages.
 
 ## Built With
 
-You can list a the tech stack that you've used over here
-
 The webpage was Designed using Wireframes and Prototyping, using the software Adobe XD. 
 The hard coding was implemented with HTML and CSS and was performed on the software Visual Studio Code.
 
 - [Wireframes/Prototype](https://www.adobe.com/no/)
-- [HTML/CSS](https://getbootstrap.com)
+- [HTML/CSS](https://code.visualstudio.com/)
 
-## Getting Started
 
 ### Installing
-
-This is where you list how to get the project started. It typically just includes telling a person to clone the repo and then to install the dependencies e.g.
 
 1. Clone the repo:
 
