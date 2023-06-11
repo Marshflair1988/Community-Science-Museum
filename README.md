@@ -61,7 +61,7 @@ Make sure that any editing done on the repo is documented and make sure to push 
 
 Socials:
 
-[My Twitter page](www.twitter.com/OnlyMarsh)
+[My Twitter page](http://www.twitter.com/OnlyMarsh)
 
-[My LinkedIn page](www.linkedin.com/in/mwoolgar)
+[My LinkedIn page](http://www.linkedin.com/in/mwoolgar)
 
