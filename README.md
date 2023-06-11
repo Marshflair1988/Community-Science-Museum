@@ -1,6 +1,6 @@
 Community-Science-Museum
 
-![image](Pictures/Science Museum.jpg)
+![image](Pictures/ScienceMuseum.jpg)
 
 A simple overview of the use/purpose of the project.
 
