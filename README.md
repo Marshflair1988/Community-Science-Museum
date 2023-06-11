@@ -1,6 +1,6 @@
 Community-Science-Museum
 
-![This is a picture of the homepage] Community-Science-Museum/Pictures/Museum.jpg)
+![This is a picture of the homepage] Community-Science-Museum/Pictures/Museum.jpg
 
 A simple overview of the use/purpose of the project.
 
