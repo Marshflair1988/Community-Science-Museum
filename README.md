@@ -6,20 +6,26 @@ A simple overview of the use/purpose of the project.
 
 ## Description
 
-Add a more detailed description of what your project entails and set out to do.
+Community Science Museum is an interactive website designed for a core target audience consisting of primary and middle school children (ages 7-15) and families with young children. 
+The aim is to be an informative, appealing website to attract middle school pupils and their parents to the museum.
+The website consists of 6 pages.
 
-You can add some bullet points if you'd like to:
-
-- List item 1
-- List item 2
-- List item 3
+- Home Page
+- Explore
+- Exhibition Spaces
+- Visit
+- Get involved
+- Special Events
 
 ## Built With
 
 You can list a the tech stack that you've used over here
 
-- [React.js](https://reactjs.org/)
-- [Bootstrap](https://getbootstrap.com)
+The webpage was Designed using Wireframes and Prototyping, using the software Adobe XD. 
+The hard coding was implemented with HTML and CSS and was performed on the software Visual Studio Code.
+
+- [Wireframes/Prototype](https://www.adobe.com/no/)
+- [HTML/CSS](https://getbootstrap.com)
 
 ## Getting Started
 
