@@ -1,6 +1,6 @@
 Community-Science-Museum
 
-![This is a picture of the homepage] Community-Science-Museum/Pictures/Museum.jpg
+![This is a picture of the homepage] [Community-Science-Museum/Pictures/Museum.jpg](https://github.com/Marshflair1988/Community-Science-Museum/issues/1#issue-1751397626)
 
 A simple overview of the use/purpose of the project.
 
